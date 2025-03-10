@@ -35,3 +35,15 @@ Note: Calls are rounded up to the next minute, and monthly data usage is rounded
 Python: Data cleaning, analysis, and visualization.
 Statistical Hypothesis Testing: Evaluate revenue differences between plans.
 Libraries: Pandas, Matplotlib, SciPy.
+
+## 📊 Analysis Results  
+
+### 🔍 Key Findings  
+- Each **prepaid plan (Surf and Ultimate) shows different usage patterns**:  
+  - **Surf plan** users make **more calls** in terms of minutes.  
+  - **Ultimate plan** users consume **more calls, SMS, and data** than Surf plan users.  
+
+### 💰 Revenue Analysis  
+- Simply calculating **total revenue** does not provide a definitive answer about which plan generates more revenue.  
+- **Statistical analysis revealed** that, **on average, the Ultimate plan brings in higher revenue** for the company.  
+- This revenue difference is **reflected in call, SMS, and data usage values**.  
